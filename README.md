@@ -21,30 +21,28 @@ Contact: [yashasd011@gmail.com](mailto:yashasd011@gmail.com)
 ![GitHub streak](https://streak-stats.demolab.com/?user=YashasD11\&theme=tokyonight)
 
 ---
+🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=YashasD11&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Technology Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,,sql,mongodb,powerbi,tableu,git" />
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,git,github,docker,linux" />
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 
 ---
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/yashas-d/)
-[GitHub](https://github.com/YashasD11)
-## Hi there 👋
-
-<!--
-**YashasD11/YashasD11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange)](https://leetcode.com/)
